@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanjay312002
+- 👋 Hi, I’m Sanjay
 
 
 <!---
